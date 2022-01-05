@@ -5,6 +5,6 @@
  <br>
       
  <p align="center">
-   <img  src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="350">
+   <img  src="https://media.giphy.com/media/wxfWBrRUAgSa0tOgf2/giphy.gif" width="550">
 
 </p>
